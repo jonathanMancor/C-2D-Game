@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\Jonathan\source\repos\sdl_take_2\TileComponent.h(23,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jonathan\source\repos\sdl_take_2\TileComponent.h(24,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jonathan\source\repos\sdl_take_2\TileComponent.h(37,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jonathan\source\repos\sdl_take_2\TileComponent.h(38,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jonathan\source\repos\sdl_take_2\Game.cpp(134,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jonathan\source\repos\sdl_take_2\Game.cpp(135,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  sdl_take_2.vcxproj -> C:\Users\Jonathan\source\repos\sdl_take_2\Debug\sdl_take_2.exe
